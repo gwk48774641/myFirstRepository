@@ -1,5 +1,6 @@
 .ll {
     display: block;
-    height: 199px;
     width: 19%;
+    color: red;
+    overflow: hidden;
 }
